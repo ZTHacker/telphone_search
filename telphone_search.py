@@ -3,8 +3,6 @@
 #2019.5.11
 import requests
 from bs4 import BeautifulSoup
-from lxml import etree
-import re
 import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
